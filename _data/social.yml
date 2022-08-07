@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://p.guseva00@gmail.com
+  icon: fas fa-envelope
+- title: GitHub
+  url: https://github.com/no-brainer
+  icon: fab fa-github
+- title: LinkedIn
+  url: https://linkedin.com/in/paguseva
+  icon: fab fa-linkedin

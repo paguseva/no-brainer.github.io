@@ -1,5 +1,5 @@
+cover_bg_color: rbg(40, 73, 77)
 domain: no-brainer.github.io
-url: https://no-brainer.github.io
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -20,16 +20,14 @@ url: https://no-brainer.github.io
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Polina Guseva
+email: p.guseva00@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Quantitative research and development. Machine learning. Efficient systems. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://no-brainer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: paguseva
+github_username:  no-brainer
 
 # Build settings
 theme: minima
@@ -38,6 +36,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: vszhub/not-pure-poole
+cover_image: assets/img/cover.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

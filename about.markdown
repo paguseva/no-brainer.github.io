@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! My name is Polina Guseva. I am a quantitative researcher at a hedge fund, where I work with cryptocurrency markets. Moreover, I have experience with platform development for quantitative analysis in Rust and kdb+/q.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Before this, I briefly participated in machine learning research about generative language models. My current interests broadly include ML for finance, bayesian models, and natural language processing.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I graduated with BSc in Applied Maths and CS from [HSE University](https://www.hse.ru/en/ba/ami) in 2022.
 
-
-[jekyll-organization]: https://github.com/jekyll
+At the moment I am located in Yerevan, Armenia.
